@@ -1,2 +1,6 @@
 .DS_Store
 *.log
+hands-on-labs/lab02_*.csv
+hands-on-labs/*.joblib
+__pycache__/
+*.pyc
